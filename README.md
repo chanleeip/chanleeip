@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanleip&label=Profile%20views&color=0e75b6&style=flat" alt="chanleip" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanleip" alt="chanleip" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=chanleeip)](https://github.com/ryo-ma/github-profile-trophy)
 - 💬 Ask me about **solana blockchain,FSOSS,ML**
 
 - 📫 How to reach me **nithinnmanickam@gmail.com**
