@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I think I'm beauty with brains**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/chanleeip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanleeip" height="30" width="40" /></a>
 <a href="https://instagram.com/nithinn_manickam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nithinn_manickam" height="30" width="40" /></a>
