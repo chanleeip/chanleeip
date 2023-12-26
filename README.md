@@ -1,5 +1,5 @@
 # Hi I'm Nithinn:
-🔭 I'm a Electronics Student<br>👨‍💻 I code in Python 🐍 ,Java,JS,C.<br>🌱 I’m currently learning Reactjs, AI&ML, Blockchain.
+🔭 I'm a Electronics Student<br>👨‍💻 I code in Python 🐍 ,Java,JS,C.<br>🌱 I’m currently learning CyberSecurity,Embedded and Networking.
 
 
 ## 🌐 Socials:
